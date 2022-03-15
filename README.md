@@ -4,8 +4,8 @@
 
 Bienvenue sur le siteweb Origami. Le nouveau Siteweb du Fablab Origami est en cours de réalisation... **Suivez-nous sur les réseaux sociaux:**
 
-[Facebook](https://www.facebook.com/fablab.origami)
-[Instagram](https://www.instagram.com/fablab.origami/)
+[<img alt="Instagram" src="https://user-images.githubusercontent.com/12203221/158428485-28c5efff-98cb-4e3b-b4ac-c4ce78ee3aa6.png" width="40px" />](https://www.instagram.com/fablab.origami/)
+[<img alt="Facebook" src="https://user-images.githubusercontent.com/12203221/158428633-bafbfba1-7801-42e0-ae03-d4a2c4e36e70.png" width="40px" />](https://www.facebook.com/fablab.origami)
 
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
@@ -19,10 +19,10 @@ Bienvenue sur le siteweb Origami. Le nouveau Siteweb du Fablab Origami est en co
 </div>
 <div class="mc-field-group input-group">
     <strong>Intérêts </strong>
-    <ul><li><input type="checkbox" value="1" name="group[44847][1]" id="mce-group[44847]-44847-0"><label for="mce-group[44847]-44847-0">Café Bricol'</label></li>
-<li><input type="checkbox" value="2" name="group[44847][2]" id="mce-group[44847]-44847-1"><label for="mce-group[44847]-44847-1">LowTech</label></li>
-<li><input type="checkbox" value="8" name="group[44847][8]" id="mce-group[44847]-44847-3"><label for="mce-group[44847]-44847-3">Labkids</label></li>
-<li><input type="checkbox" value="32" name="group[44847][32]" id="mce-group[44847]-44847-5"><label for="mce-group[44847]-44847-5">Openlabs, Ateliers, Formations</label></li>
+    <ul><li><input type="checkbox" value="1" name="group[44847][1]" id="mce-group[44847]-44847-0"><label for="mce-group[44847]-44847-0"> Café Bricol'</label></li>
+<li><input type="checkbox" value="2" name="group[44847][2]" id="mce-group[44847]-44847-1"><label for="mce-group[44847]-44847-1"> LowTech</label></li>
+<li><input type="checkbox" value="8" name="group[44847][8]" id="mce-group[44847]-44847-3"><label for="mce-group[44847]-44847-3"> Labkids</label></li>
+<li><input type="checkbox" value="32" name="group[44847][32]" id="mce-group[44847]-44847-5"><label for="mce-group[44847]-44847-5"> Openlabs, Ateliers, Formations</label></li>
 </ul>
 </div>
 <div hidden="true"><input type="hidden" name="tags" value="7320867,7320871"></div>
@@ -34,7 +34,6 @@ Bienvenue sur le siteweb Origami. Le nouveau Siteweb du Fablab Origami est en co
         <div class="optionalParent">
             <div class="clear foot">
                 <input type="submit" value="Insris-toi" name="subscribe" id="mc-embedded-subscribe" class="button">
-                <p class="brandingLogo"><a href="http://eepurl.com/hWO49H" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
             </div>
         </div>
     </div>
